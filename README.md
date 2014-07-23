@@ -1,4 +1,4 @@
 kMeans
 ======
-Simple kMeans Algorithm OO implemented
+OO implemented
 kMeans Algorithm
